@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CHI BỘ SINH VIÊN 2</title>
-    <title>TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN, ĐHQG-HCM</title>
+    <title>Chi bộ Sinh viên 02 - Trường Đại học CNTT</title>
     <style>
         body {
             font-family: Impact, bold;
@@ -52,7 +51,7 @@
 <body>
     <header>
         <img src="dang-logo.png" alt="Logo Đảng">
-        <span style="font-size: 24px;">Chi bộ Sinh viên 02 - Trường Đại học CNTT</span>
+        <span style="font-size: 24px;">CHI BỘ SINH VIÊN 2 - TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN, ĐHQG-HCM</span>
         <p style="margin-top: 10px;">Website chính thức cập nhật thông tin sinh hoạt Đảng</p>
     </header>
     <nav>
