@@ -3,10 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chi bộ Sinh viên 02 - UIT</title>
+    <title>CHI BỘ SINH VIÊN 2</title>
+    <title>TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN, ĐHQG-HCM</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Impact, bold;
             background-color: #fffafa;
             margin: 0;
             padding: 0;
@@ -65,10 +66,13 @@
     </nav>
     <section>
         <h2>Chào mừng đến với Website Chi bộ Sinh viên 02</h2>
-        <p>Trang web cập nhật thông tin, lịch sinh hoạt, tuyên truyền chính trị tư tưởng và lưu trữ tài liệu phục vụ công tác Đảng trong sinh viên.</p>
+        <p>Chi bộ Sinh viên 2 trực thuộc Đảng ủy Trường Đại học Công nghệ Thông tin, ĐHQG-HCM. 
+            Chi bộ là tổ chức chính trị hạt nhân trong sinh viên, có vai trò lãnh đạo công tác tư tưởng, 
+            định hướng đạo đức lối sống, triển khai các nghị quyết của Đảng và tổ chức sinh hoạt chính trị định kỳ 
+            trong đội ngũ đảng viên sinh viên. Chi bộ Sinh viên 2 (CBSV2) là nơi tập hợp Đảng viên Sinh viên từ hai Khoa Công nghệ phần mềm và khoa Hệ thống thông tin thuộc trường Đại học Công nghệ thông tin. Hiện tại, chi bộ có 33 đảng viên đang sinh hoạt, trong đó số lượng đảng viên chính thức là 26 đồng chí, số lượng đảng viên dự bị là 07 đồng chí, đảng viên là sinh viên là 31 đồng chí, đảng viên là cán bộ - giảng viên là 02 đồng chí.</p>
     </section>
     <footer>
-        &copy; 2025 Chi bộ Sinh viên 02 - Trường Đại học CNTT (UIT)
+        &copy; 2025 Chi bộ Sinh viên 02 - Trường Đại học Công nghệ thông tin(UIT)
     </footer>
 </body>
 </html>
