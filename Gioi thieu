@@ -6,7 +6,7 @@
     <title>Chi bộ Sinh viên 2 - UIT</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: impact, bold;
             background-color: #fffafa;
             margin: 0;
             padding: 0;
