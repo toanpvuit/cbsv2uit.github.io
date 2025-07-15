@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <title>Chi bộ Sinh viên 2</title>
+</head>
+<body>
+  <h1>Trang chủ Chi bộ Sinh viên 2</h1>
+  <ul>
+    <li><a href="quy-trinh-ket-nap.html">Quy trình Kết nạp Đảng viên</a></li>
+    <li><a href="quy-trinh-cong-nhan.html">Công nhận Đảng viên chính thức</a></li>
+    <li><a href="quy-trinh-chuyen-sinh-hoat.html">Chuyển sinh hoạt Đảng</a></li>
+    <li><a href="quy-trinh-cu-tru.html">Giới thiệu sinh hoạt nơi cư trú</a></li>
+    <li><a href="quy-trinh-the-dang.html">Thẻ Đảng viên</a></li>
+    <li><a href="quy-trinh-danh-gia-cuoi-nam.html">Đánh giá cuối năm</a></li>
+  </ul>
+</body>
+</html>
